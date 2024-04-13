@@ -1,4 +1,5 @@
 import "../Edit/edit.css"
+import "../Post/post.css"
 
 const input = (props) => {
     const  {
